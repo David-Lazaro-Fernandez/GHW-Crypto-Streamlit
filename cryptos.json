@@ -1,0 +1,922 @@
+{
+    "X:LTCUSD": {
+        "closing_value": 81.6,
+        "name": ""
+    },
+    "X:WBTCUSD": {
+        "closing_value": 17189.01,
+        "name": ""
+    },
+    "X:OCEANUSD": {
+        "closing_value": 0.2032,
+        "name": ""
+    },
+    "X:DUSKUSD": {
+        "closing_value": 0.091943,
+        "name": "Dusk Network - United States Dollar"
+    },
+    "X:DOGEUSD": {
+        "closing_value": 0.07563,
+        "name": "Dogecoin - United States Dollar"
+    },
+    "X:DOTUSD": {
+        "closing_value": 4.8868,
+        "name": "Polkadot - United States Dollar"
+    },
+    "X:BTCEUR": {
+        "closing_value": 16006.1,
+        "name": "Bitcoin - Euro"
+    },
+    "X:ATOMUSD": {
+        "closing_value": 11.107,
+        "name": "Cosmos - United States Dollar"
+    },
+    "X:ETCUSD": {
+        "closing_value": 20.09,
+        "name": "Ethereum Classic - United States Dollar"
+    },
+    "X:ETHUSD": {
+        "closing_value": 1320.02,
+        "name": "Ethereum - United States Dollar"
+    },
+    "X:SHIBUSD": {
+        "closing_value": 8.69e-06,
+        "name": ""
+    },
+    "X:MATICUSD": {
+        "closing_value": 0.84285,
+        "name": ""
+    },
+    "X:GALAUSD": {
+        "closing_value": 0.04048,
+        "name": "Gala Games - United States Dollar"
+    },
+    "X:ETHBTC": {
+        "closing_value": 0.07686,
+        "name": "Ethereum - Bitcoin"
+    },
+    "X:BTCUSD": {
+        "closing_value": 17177.98,
+        "name": "Bitcoin - United States Dollar"
+    },
+    "X:ADAUSD": {
+        "closing_value": 0.3167,
+        "name": "Cardano - United States Dollar"
+    },
+    "X:BTCGBP": {
+        "closing_value": 14098.41,
+        "name": "Bitcoin - Great Britain Pound"
+    },
+    "X:ALGOUSD": {
+        "closing_value": 0.1996,
+        "name": "Algorand - United States Dollar"
+    },
+    "X:FETUSD": {
+        "closing_value": 0.1533,
+        "name": "Fetch.ai - United States Dollar"
+    },
+    "X:SANDUSD": {
+        "closing_value": 0.5145,
+        "name": ""
+    },
+    "X:UNIUSD": {
+        "closing_value": 5.786,
+        "name": ""
+    },
+    "X:APEUSD": {
+        "closing_value": 4.604,
+        "name": "ApeCoin - United States Dollar"
+    },
+    "X:USTUSD": {
+        "closing_value": 1.0004,
+        "name": ""
+    },
+    "X:SOLUSD": {
+        "closing_value": 16.25,
+        "name": ""
+    },
+    "X:NEOUSD": {
+        "closing_value": 6.8471,
+        "name": ""
+    },
+    "X:USDTUSD": {
+        "closing_value": 1.0001,
+        "name": ""
+    },
+    "X:XLMUSD": {
+        "closing_value": 0.079276,
+        "name": ""
+    },
+    "X:SUKUUSD": {
+        "closing_value": 0.0504,
+        "name": ""
+    },
+    "X:MKRUSD": {
+        "closing_value": 613.9,
+        "name": ""
+    },
+    "X:LINKUSD": {
+        "closing_value": 6.063,
+        "name": ""
+    },
+    "X:BALUSD": {
+        "closing_value": 5.5495,
+        "name": "Balancer - United States Dollar"
+    },
+    "X:EOSUSD": {
+        "closing_value": 0.9368,
+        "name": "EOS - United States Dollar"
+    },
+    "X:CHZUSD": {
+        "closing_value": 0.1144,
+        "name": "Chiliz - United States Dollar"
+    },
+    "X:UDCUSD": {
+        "closing_value": 1.0003,
+        "name": ""
+    },
+    "X:YFIUSD": {
+        "closing_value": 5733.11,
+        "name": ""
+    },
+    "X:HBARUSD": {
+        "closing_value": 0.04442,
+        "name": ""
+    },
+    "X:OGNUSD": {
+        "closing_value": 0.09915,
+        "name": ""
+    },
+    "X:XYOUSD": {
+        "closing_value": 0.00563,
+        "name": ""
+    },
+    "X:ROSEUSD": {
+        "closing_value": 0.04,
+        "name": ""
+    },
+    "X:DDXUSD": {
+        "closing_value": 0.3276,
+        "name": "DerivaDAO - United States Dollar"
+    },
+    "X:ETPUSD": {
+        "closing_value": 0.025001,
+        "name": "Metaverse - United States Dollar"
+    },
+    "X:FOXUSD": {
+        "closing_value": 0.0251,
+        "name": "Shapeshift FOX Token - United States Dollar"
+    },
+    "X:CLVUSD": {
+        "closing_value": 0.0559,
+        "name": "Clover Finance - United States Dollar"
+    },
+    "X:ZCNUSD": {
+        "closing_value": 0.18868,
+        "name": ""
+    },
+    "X:STORJUSD": {
+        "closing_value": 0.278,
+        "name": ""
+    },
+    "X:ANKRUSD": {
+        "closing_value": 0.01982,
+        "name": "Ankr - United States Dollar"
+    },
+    "X:SNXUSD": {
+        "closing_value": 1.761,
+        "name": ""
+    },
+    "X:ALBTUSD": {
+        "closing_value": 0.05541,
+        "name": "AllianceBlock - United States Dollar"
+    },
+    "X:FTMUSD": {
+        "closing_value": 0.23691,
+        "name": "Fantom - United States Dollar"
+    },
+    "X:RNDRUSD": {
+        "closing_value": 0.4482,
+        "name": ""
+    },
+    "X:LUNAUSD": {
+        "closing_value": 0.00016959,
+        "name": ""
+    },
+    "X:OXTUSD": {
+        "closing_value": 0.0714,
+        "name": ""
+    },
+    "X:NEARUSD": {
+        "closing_value": 1.64,
+        "name": ""
+    },
+    "X:ICPUSD": {
+        "closing_value": 4.243,
+        "name": ""
+    },
+    "X:BCHGBP": {
+        "closing_value": 87.98,
+        "name": "Bitcoin Cash - Great Britian Pound"
+    },
+    "X:1INCHUSD": {
+        "closing_value": 0.421,
+        "name": "1inch - United States Dollar"
+    },
+    "X:LTCEUR": {
+        "closing_value": 75.99,
+        "name": ""
+    },
+    "X:MIRUSD": {
+        "closing_value": 0.1301,
+        "name": ""
+    },
+    "X:ZECUSD": {
+        "closing_value": 43.138,
+        "name": ""
+    },
+    "X:JASMYUSD": {
+        "closing_value": 0.003884,
+        "name": ""
+    },
+    "X:NKNUSD": {
+        "closing_value": 0.0889,
+        "name": ""
+    },
+    "X:IOTXUSD": {
+        "closing_value": 0.02668,
+        "name": ""
+    },
+    "X:CRVUSD": {
+        "closing_value": 0.6424,
+        "name": "Curve DAO Token - United States Dollar"
+    },
+    "X:ICEUSD": {
+        "closing_value": 0.45323,
+        "name": ""
+    },
+    "X:CTSIUSD": {
+        "closing_value": 0.1125,
+        "name": "Cartesi - United States Dollar"
+    },
+    "X:MOBUSD": {
+        "closing_value": 0.90699,
+        "name": ""
+    },
+    "X:DASHUSD": {
+        "closing_value": 48.8,
+        "name": "Dash - United States Dollar"
+    },
+    "X:KSMUSD": {
+        "closing_value": 25.915,
+        "name": ""
+    },
+    "X:FXUSD": {
+        "closing_value": 0.1631,
+        "name": "Function X - United States Dollar"
+    },
+    "X:LTCBTC": {
+        "closing_value": 0.004756,
+        "name": ""
+    },
+    "X:HMTUSD": {
+        "closing_value": 0.05184,
+        "name": ""
+    },
+    "X:BOBAUSD": {
+        "closing_value": 0.1862,
+        "name": "Boba Network - United States Dollar"
+    },
+    "X:BCHEUR": {
+        "closing_value": 99.64,
+        "name": "Bitcoin Cash - Euro"
+    },
+    "X:LCXUSD": {
+        "closing_value": 0.0507,
+        "name": ""
+    },
+    "X:EDOUSD": {
+        "closing_value": 0.13656,
+        "name": "Eidoo - United States Dollar"
+    },
+    "X:AMPUSD": {
+        "closing_value": 0.00345,
+        "name": "Amp - United States Dollar"
+    },
+    "X:UOSUSD": {
+        "closing_value": 0.19696,
+        "name": ""
+    },
+    "X:XMRUSD": {
+        "closing_value": 158.87,
+        "name": ""
+    },
+    "X:ANTUSD": {
+        "closing_value": 2.32,
+        "name": "Aragon - United States Dollar"
+    },
+    "X:BTTUSD": {
+        "closing_value": 6.5e-07,
+        "name": "BitTorrent - United States Dollar"
+    },
+    "X:OMGUSD": {
+        "closing_value": 1.1274,
+        "name": ""
+    },
+    "X:BANDUSD": {
+        "closing_value": 1.6131,
+        "name": "Band Protocol - United States Dollar"
+    },
+    "X:FLOWUSD": {
+        "closing_value": 0.785,
+        "name": "Flow - United States Dollar"
+    },
+    "X:TRBUSD": {
+        "closing_value": 13.2,
+        "name": ""
+    },
+    "X:BCHUSD": {
+        "closing_value": 106.82,
+        "name": "Bitcoin Cash - United States Dollar"
+    },
+    "X:DSHUSD": {
+        "closing_value": 48.882,
+        "name": "Dash - United States Dollar"
+    },
+    "X:AVAXUSD": {
+        "closing_value": 12.19,
+        "name": "Avalanche - United States Dollar"
+    },
+    "X:MANAUSD": {
+        "closing_value": 0.3938,
+        "name": ""
+    },
+    "X:CGLDUSD": {
+        "closing_value": 0.54,
+        "name": "Celo - United States Dollar"
+    },
+    "X:TRXUSD": {
+        "closing_value": 0.054662,
+        "name": ""
+    },
+    "X:SNTUSD": {
+        "closing_value": 0.020861,
+        "name": ""
+    },
+    "X:GRTUSD": {
+        "closing_value": 0.0706,
+        "name": "The Graph - United States Dollar"
+    },
+    "X:RENUSD": {
+        "closing_value": 0.0672,
+        "name": ""
+    },
+    "X:KNCUSD": {
+        "closing_value": 0.53321,
+        "name": ""
+    },
+    "X:REPUSD": {
+        "closing_value": 4.6649,
+        "name": ""
+    },
+    "X:API3USD": {
+        "closing_value": 1.244,
+        "name": "API3 - United States Dollar"
+    },
+    "X:KAVAUSD": {
+        "closing_value": 0.7387,
+        "name": ""
+    },
+    "X:COTIUSD": {
+        "closing_value": 0.0634,
+        "name": "Coti - United States Dollar"
+    },
+    "X:AXSUSD": {
+        "closing_value": 7.33,
+        "name": "Axie Infinity - United States Dollar"
+    },
+    "X:GNOUSD": {
+        "closing_value": 91.424,
+        "name": "Gnosis - United States Dollar"
+    },
+    "X:SKLUSD": {
+        "closing_value": 0.0248,
+        "name": ""
+    },
+    "X:DGBUSD": {
+        "closing_value": 0.008648,
+        "name": "DigiByte - United States Dollar"
+    },
+    "X:XTZUSD": {
+        "closing_value": 0.83057,
+        "name": ""
+    },
+    "X:XRDUSD": {
+        "closing_value": 0.035544,
+        "name": ""
+    },
+    "X:TRACUSD": {
+        "closing_value": 0.1876,
+        "name": ""
+    },
+    "X:SUSHIUSD": {
+        "closing_value": 1.0779,
+        "name": ""
+    },
+    "X:AAVEUSD": {
+        "closing_value": 61.16,
+        "name": "Aave - United States Dollar"
+    },
+    "X:RLCUSD": {
+        "closing_value": 1.3706,
+        "name": ""
+    },
+    "X:IMXUSD": {
+        "closing_value": 0.4773,
+        "name": ""
+    },
+    "X:BATUSD": {
+        "closing_value": 0.19659,
+        "name": "Basic Attention Token - United States Dollar"
+    },
+    "X:BTRSTUSD": {
+        "closing_value": 0.936,
+        "name": "Braintrust - United States Dollar"
+    },
+    "X:DAIUSD": {
+        "closing_value": 0.99931,
+        "name": "Dai - United States Dollar"
+    },
+    "X:CROUSD": {
+        "closing_value": 0.063,
+        "name": "Crypto.com - United States Dollar"
+    },
+    "X:XRPUSD": {
+        "closing_value": 0.34905,
+        "name": ""
+    },
+    "X:UMAUSD": {
+        "closing_value": 1.646,
+        "name": ""
+    },
+    "X:FARMUSD": {
+        "closing_value": 31.8,
+        "name": "Harvest Finance - United States Dollar"
+    },
+    "X:LRCUSD": {
+        "closing_value": 0.2197,
+        "name": ""
+    },
+    "X:SPELLUSD": {
+        "closing_value": 0.0005897,
+        "name": ""
+    },
+    "X:IQXUSD": {
+        "closing_value": 0.0046894,
+        "name": ""
+    },
+    "X:CLOUSD": {
+        "closing_value": 0.0031608,
+        "name": "Callisto - United States Dollar"
+    },
+    "X:NCTUSD": {
+        "closing_value": 0.00703,
+        "name": ""
+    },
+    "X:IOTUSD": {
+        "closing_value": 0.18657,
+        "name": ""
+    },
+    "X:XAUTUSD": {
+        "closing_value": 1868.5,
+        "name": ""
+    },
+    "X:USDCUSD": {
+        "closing_value": 1,
+        "name": ""
+    },
+    "X:FILUSD": {
+        "closing_value": 3.773,
+        "name": "Filecoin - United States Dollar"
+    },
+    "X:MLNUSD": {
+        "closing_value": 19.79,
+        "name": ""
+    },
+    "X:ZRXUSD": {
+        "closing_value": 0.16963,
+        "name": ""
+    },
+    "X:MNAUSD": {
+        "closing_value": 0.39429,
+        "name": ""
+    },
+    "X:COMPUSD": {
+        "closing_value": 35.5,
+        "name": "Compound - United States Dollar"
+    },
+    "X:QNTUSD": {
+        "closing_value": 119.94,
+        "name": ""
+    },
+    "X:MASKUSD": {
+        "closing_value": 2.62,
+        "name": ""
+    },
+    "X:KEEPUSD": {
+        "closing_value": 0.0802,
+        "name": ""
+    },
+    "X:GTCUSD": {
+        "closing_value": 1.43,
+        "name": "Gitcoin - United States Dollar"
+    },
+    "X:WAVESUSD": {
+        "closing_value": 1.5901,
+        "name": ""
+    },
+    "X:QTMUSD": {
+        "closing_value": 2.0231,
+        "name": ""
+    },
+    "X:ALCXUSD": {
+        "closing_value": 14.59,
+        "name": "Alchemix - United States Dollar"
+    },
+    "X:NEXOUSD": {
+        "closing_value": 0.72264,
+        "name": ""
+    },
+    "X:OXYUSD": {
+        "closing_value": 0.013112,
+        "name": ""
+    },
+    "X:ACHUSD": {
+        "closing_value": 0.008248,
+        "name": "Alchemy Pay - United States Dollar"
+    },
+    "X:EGLDUSD": {
+        "closing_value": 34.89,
+        "name": "Elrond - United States Dollar"
+    },
+    "X:ENJUSD": {
+        "closing_value": 0.291,
+        "name": "Enjin Coin - United States Dollar"
+    },
+    "X:AVTUSD": {
+        "closing_value": 1.24,
+        "name": "Aventus - United States Dollar"
+    },
+    "X:BTSEUSD": {
+        "closing_value": 2.2723,
+        "name": "BTSE - United States Dollar"
+    },
+    "X:ARPAUSD": {
+        "closing_value": 0.029,
+        "name": "ARPA Chain - United States Dollar"
+    },
+    "X:QTUMUSD": {
+        "closing_value": 2.06672,
+        "name": ""
+    },
+    "X:LPTUSD": {
+        "closing_value": 4.89,
+        "name": ""
+    },
+    "X:JSTUSD": {
+        "closing_value": 0.02093,
+        "name": ""
+    },
+    "X:STXUSD": {
+        "closing_value": 0.2297,
+        "name": ""
+    },
+    "X:ZENUSD": {
+        "closing_value": 8.9,
+        "name": ""
+    },
+    "X:NMRUSD": {
+        "closing_value": 14.15,
+        "name": ""
+    },
+    "X:SCUSD": {
+        "closing_value": 0.00248,
+        "name": ""
+    },
+    "X:VETUSD": {
+        "closing_value": 0.017476,
+        "name": ""
+    },
+    "X:QRDOUSD": {
+        "closing_value": 0.10453,
+        "name": ""
+    },
+    "X:TRUUSD": {
+        "closing_value": 0.0295,
+        "name": ""
+    },
+    "X:DNTUSD": {
+        "closing_value": 0.0181,
+        "name": ""
+    },
+    "X:TSDUSD": {
+        "closing_value": 1.0006,
+        "name": ""
+    },
+    "X:QUICKUSD": {
+        "closing_value": 47.86,
+        "name": ""
+    },
+    "X:XVGUSD": {
+        "closing_value": 0.002781,
+        "name": ""
+    },
+    "X:UTKUSD": {
+        "closing_value": 0.079939,
+        "name": ""
+    },
+    "X:GLMUSD": {
+        "closing_value": 0.1918,
+        "name": "Golem - United States Dollar"
+    },
+    "X:VGXUSD": {
+        "closing_value": 0.3073,
+        "name": ""
+    },
+    "X:COVALUSD": {
+        "closing_value": 0.00829,
+        "name": "Circuits of Value - United States Dollar"
+    },
+    "X:PLANETSUSD": {
+        "closing_value": 0.0038273,
+        "name": ""
+    },
+    "X:PERPUSD": {
+        "closing_value": 0.4001,
+        "name": ""
+    },
+    "X:BOSONUSD": {
+        "closing_value": 0.19502,
+        "name": "Boson Protocol - United States Dollar"
+    },
+    "X:NUUSD": {
+        "closing_value": 0.0895,
+        "name": ""
+    },
+    "X:REEFUSD": {
+        "closing_value": 0.0025621,
+        "name": ""
+    },
+    "X:PNKUSD": {
+        "closing_value": 0.025317,
+        "name": ""
+    },
+    "X:ICXUSD": {
+        "closing_value": 0.158,
+        "name": ""
+    },
+    "X:ELAUSD": {
+        "closing_value": 0.825,
+        "name": "Elastos - United States Dollar"
+    },
+    "X:REQUSD": {
+        "closing_value": 0.0891,
+        "name": ""
+    },
+    "X:BNTUSD": {
+        "closing_value": 0.353,
+        "name": "Bancor - United States Dollar"
+    },
+    "X:AUCTIONUSD": {
+        "closing_value": 4.31,
+        "name": "Bounce Token - United States Dollar"
+    },
+    "X:LTCAUD": {
+        "closing_value": 118.3,
+        "name": ""
+    },
+    "X:SRMUSD": {
+        "closing_value": 0.193,
+        "name": ""
+    },
+    "X:BADGERUSD": {
+        "closing_value": 2.31,
+        "name": "Badger Dao - United States Dollar"
+    },
+    "X:CRPTUSD": {
+        "closing_value": 0.0773,
+        "name": "Crypterium - United States Dollar"
+    },
+    "X:XRPAUD": {
+        "closing_value": 0.50294,
+        "name": ""
+    },
+    "X:GNTUSD": {
+        "closing_value": 0.19096,
+        "name": "Golem - United States Dollar"
+    },
+    "X:ASMUSD": {
+        "closing_value": 0.0083,
+        "name": "Assemble Protocol - United States Dollar"
+    },
+    "X:BONDUSD": {
+        "closing_value": 3.49,
+        "name": "BarnBridge - United States Dollar"
+    },
+    "X:LOOMUSD": {
+        "closing_value": 0.0435,
+        "name": ""
+    },
+    "X:CVCUSD": {
+        "closing_value": 0.0817,
+        "name": "Civic - United States Dollar"
+    },
+    "X:PLAUSD": {
+        "closing_value": 0.1575,
+        "name": ""
+    },
+    "X:XRPBTC": {
+        "closing_value": 2.029e-05,
+        "name": ""
+    },
+    "X:ETHAUD": {
+        "closing_value": 1909.46,
+        "name": "Ethereum - Australian dollar"
+    },
+    "X:RARIUSD": {
+        "closing_value": 1.77,
+        "name": ""
+    },
+    "X:ZILUSD": {
+        "closing_value": 0.023479,
+        "name": ""
+    },
+    "X:POLYUSD": {
+        "closing_value": 0.1548,
+        "name": ""
+    },
+    "X:BTCJPY": {
+        "closing_value": 2266375.0,
+        "name": "Bitcoin - Japanese Yen"
+    },
+    "X:SWFTCUSD": {
+        "closing_value": 0.001124,
+        "name": ""
+    },
+    "X:XDCUSD": {
+        "closing_value": 0.02754,
+        "name": ""
+    },
+    "X:RLYUSD": {
+        "closing_value": 0.0083,
+        "name": ""
+    },
+    "X:CHSBUSD": {
+        "closing_value": 0.21533,
+        "name": "SwissBorg - United States Dollar"
+    },
+    "X:BTCAUD": {
+        "closing_value": 24863.2,
+        "name": "Bitcoin - Australian Dollar"
+    },
+    "X:KRLUSD": {
+        "closing_value": 0.262,
+        "name": ""
+    },
+    "X:FUNUSD": {
+        "closing_value": 0.00628,
+        "name": "FunFair - United States Dollar"
+    },
+    "X:INJUSD": {
+        "closing_value": 1.421,
+        "name": ""
+    },
+    "X:GYENUSD": {
+        "closing_value": 0.007563,
+        "name": ""
+    },
+    "X:WAXUSD": {
+        "closing_value": 0.049048,
+        "name": ""
+    },
+    "X:NANOUSD": {
+        "closing_value": 0.710341,
+        "name": ""
+    },
+    "X:LSKUSD": {
+        "closing_value": 0.750594,
+        "name": ""
+    },
+    "X:PAXUSD": {
+        "closing_value": 0.9992,
+        "name": ""
+    },
+    "X:FORTHUSD": {
+        "closing_value": 3.02,
+        "name": "Ampleforth Governance Token - United States Dollar"
+    },
+    "X:ORNUSD": {
+        "closing_value": 0.791,
+        "name": ""
+    },
+    "X:PAXGUSD": {
+        "closing_value": 1869.74,
+        "name": ""
+    },
+    "X:QTFUSD": {
+        "closing_value": 8.8689,
+        "name": ""
+    },
+    "X:YGGUSD": {
+        "closing_value": 0.195,
+        "name": ""
+    },
+    "X:ZMTUSD": {
+        "closing_value": 0.16711,
+        "name": ""
+    },
+    "X:VELOUSD": {
+        "closing_value": 0.0019837,
+        "name": ""
+    },
+    "X:GUSDUSD": {
+        "closing_value": 1,
+        "name": "Gemini Dollar - United States Dollar"
+    },
+    "X:VSYUSD": {
+        "closing_value": 0.0010134,
+        "name": ""
+    },
+    "X:CSMUSD": {
+        "closing_value": 0.003699,
+        "name": "Consentium - United States Dollar"
+    },
+    "X:FCLUSD": {
+        "closing_value": 0.00952,
+        "name": "Fractal - United States Dollar"
+    },
+    "X:TRIBEUSD": {
+        "closing_value": 0.2186,
+        "name": ""
+    },
+    "X:BTGUSD": {
+        "closing_value": 14.499,
+        "name": "Bitcoin Gold - United States Dollar"
+    },
+    "X:XRAUSD": {
+        "closing_value": 0.0077378,
+        "name": ""
+    },
+    "X:VEEUSD": {
+        "closing_value": 0.0017236,
+        "name": ""
+    },
+    "X:RAIUSD": {
+        "closing_value": 2.8,
+        "name": ""
+    },
+    "X:TLOSUSD": {
+        "closing_value": 0.10729,
+        "name": ""
+    },
+    "X:PASUSD": {
+        "closing_value": 0.0016855,
+        "name": ""
+    },
+    "X:DVFUSD": {
+        "closing_value": 0.62834,
+        "name": "DeversiFi - United States Dollar"
+    },
+    "X:LYMUSD": {
+        "closing_value": 0.0012964,
+        "name": ""
+    },
+    "X:ALICEUSD": {
+        "closing_value": 1.211,
+        "name": "MyNeighborAlice - United States Dollar"
+    },
+    "X:CVXUSD": {
+        "closing_value": 3.42,
+        "name": "Convex Finance - United States Dollar"
+    },
+    "X:C98USD": {
+        "closing_value": 0.1792,
+        "name": "Coin98 - United States Dollar"
+    },
+    "X:DYDXUSD": {
+        "closing_value": 1.328,
+        "name": "dYdX - United States Dollar"
+    },
+    "X:FISUSD": {
+        "closing_value": 0.3938,
+        "name": "StaFi Protocol - United States Dollar"
+    },
+    "X:GHSTUSD": {
+        "closing_value": 0.9928,
+        "name": "Aavegotchi - United States Dollar"
+    },
+    "X:SGBUSD": {
+        "closing_value": 0.016426,
+        "name": ""
+    }
+}
